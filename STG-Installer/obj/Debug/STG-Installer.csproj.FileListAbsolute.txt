@@ -1,0 +1,11 @@
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\bin\Debug\STG-Installer.exe.config
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\bin\Debug\STG-Installer.exe
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\bin\Debug\STG-Installer.pdb
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\obj\Debug\STG-Installer.csprojAssemblyReference.cache
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\obj\Debug\STG_Installer.Pages.Panel1_Info.resources
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\obj\Debug\STG_Installer.Properties.Resources.resources
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\obj\Debug\STG_Installer.STG_MainForm.resources
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\obj\Debug\STG-Installer.csproj.GenerateResource.cache
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\obj\Debug\STG-Installer.exe
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\obj\Debug\STG-Installer.pdb
+D:\Projekty\Star-Trek-Generations-Alternative-Installer\STG-Installer\obj\Debug\STG_Installer.Pages.Panel2_Installation.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STG-Installer", "STG-Installer\STG-Installer.csproj", "{A767CB19-5CE3-4529-BA1D-44BDBF13D10A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A767CB19-5CE3-4529-BA1D-44BDBF13D10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A767CB19-5CE3-4529-BA1D-44BDBF13D10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A767CB19-5CE3-4529-BA1D-44BDBF13D10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A767CB19-5CE3-4529-BA1D-44BDBF13D10A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F73B3E-F174-4CD0-9AD1-03B0051E705E}
+	EndGlobalSection
+EndGlobal
