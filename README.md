@@ -4,7 +4,7 @@ Alternative installer written (sadly) in C# and bundled with some additional com
 
 Credits
 -------
-  * [SuicideMachine](http://twitch.tv/suicidemachine)
+  * [SuicideMachine](http://twitch.tv/suimachine)
   * A Cinepak by Radius Inc. is bunbled with installer.
   * InstallShield File Compressor (i3comp) by Stirling Technologies, Inc. is bunbled with installer.
   
